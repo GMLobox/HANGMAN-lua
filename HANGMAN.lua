@@ -1,4 +1,4 @@
--- hangman thingy thing by EMMANUEL CASTREJON @GMLobox (YT, TWITTER) and https://squishhxd.itch.io
+-- hangman thingy thing
 
 -- ts gonna be sooooo tuff
 
